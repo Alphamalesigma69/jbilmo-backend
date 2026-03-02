@@ -1,0 +1,10 @@
+# Environment variables — contains API key, never push to GitHub
+.env
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
